@@ -41,12 +41,36 @@ html[xmlns] .clearfix {
     display: block;
 }
 
-.nav{
-    list-style: none outside none;
-    background-color: #009cd9;
-    height: 37px;
+.nav_container{
     margin-top: 13px;
+    background-color: #009cd9;
+}
+
+.nav{
+    float: left;
+    list-style: none outside none;
     padding:0px;
+}
+
+.nav_right{
+    list-style: none outside none;
+    background-color: #297ac0;
+    float:right;
+    font-size: 14px;
+    padding: 0;
+    width: 224px;
+}
+
+.nav_right li{
+    float:left;
+    height: 37px;
+    line-height: 37px;
+    color: #ffffff;
+}
+
+.nav_right li a{
+    color: #ffffff;
+    text-decoration: none;
 }
 
 ul.nav li{
@@ -55,13 +79,16 @@ ul.nav li{
 
 
 ul.nav li a{
-    float:none;
-    padding: 10px 15px;
+    display: block;
+    padding: 0 15px;
     font-size: 16px;
     font-weight: bold;
     color: #ffffff;
     line-height: 37px;
     text-decoration: none;
+}
+ul.nav li a:hover{
+    background-color: #0086d1;
 }
 
 .main{
