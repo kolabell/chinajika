@@ -101,7 +101,7 @@ ul.bk_list{
     list-style-image: url("/images/list-style.png");
     margin-top: 14px;
     */
-    padding-top: 14px;
+    padding-top: 10px;
     padding-left: 0px;
 }
 
@@ -384,7 +384,7 @@ ul.tabs li a{
 }
 .forum6 .tabs{
     border-top: 2px solid #a57700;
-    border-bottom: 1px solid #beed88;
+    border-bottom: 1px solid #f4c9a8;
 }
 .forum6 a.current{
     border-left: 1px solid #f4c9a8;
