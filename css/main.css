@@ -1,5 +1,6 @@
 *{
-    margin:0px auto 0px auto;
+    /*margin:0px auto 0px auto;*/
+    margin: 0;
 }
 body{
     margin: 0px auto 0px auto;
@@ -410,7 +411,8 @@ ul.tabs li a{
 }
 
 .friendlinkblock{
-    display: inline-block;
+    /*display: inline-block;*/
+    display: inline;
     padding: 2px 0;
 }
 
