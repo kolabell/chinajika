@@ -322,7 +322,7 @@ ul.tabs li a{
     display: block;
     height: 30px;
     line-height: 30px;
-    padding:0 9px;
+    padding:0 8px;
 }
 
 .panel{
@@ -353,6 +353,13 @@ ul.tabs li a{
     color: #0086d1;
 }
 
+.main_2_small_container .title a{
+    text-decoration: none;
+}
+.main_2_small_container .title a:hover{
+    text-decoration: underline;
+}
+
 
 .forum1 .tabs{
     border-top: 2px solid #eb6100;
@@ -363,9 +370,10 @@ ul.tabs li a{
     border-left: 1px solid #f4c9a8;
     border-right: 1px solid #f4c9a8;
 }
-.forum1 .title{
+.forum1 .title a{
     color:#eb6100;
 }
+
 .forum2 .tabs{
      border-top: 2px solid #59a000;
      border-bottom: 1px solid #beed88;
@@ -374,7 +382,7 @@ ul.tabs li a{
     border-left: 1px solid #bdeb86;
     border-right: 1px solid #bdeb86;
 }
-.forum2 .title{
+.forum2 .title a{
     color:#59a000;
 }
 .forum3 .tabs{
@@ -385,7 +393,7 @@ ul.tabs li a{
     border-left: 1px solid #cba8f4;
     border-right: 1px solid #cba8f4;
 }
-.forum3 .title{
+.forum3 .title a{
     color:#95188a;
 }
 .forum4 .tabs{
@@ -396,7 +404,7 @@ ul.tabs li a{
     border-left: 1px solid #e1a4cb;
     border-right: 1px solid #e1a4cb;
 }
-.forum4 .title{
+.forum4 .title a{
     color:#c00870;
 }
 .forum5 .tabs{
@@ -407,7 +415,7 @@ ul.tabs li a{
     border-left: 1px solid #a8d3f4;
     border-right: 1px solid #a8d3f4;
 }
-.forum5 .title{
+.forum5 .title a{
     color:#0086d1;
 }
 .forum6 .tabs{
@@ -418,7 +426,7 @@ ul.tabs li a{
     border-left: 1px solid #f4c9a8;
     border-right: 1px solid #f4c9a8;
 }
-.forum6 .title{
+.forum6 .title a{
     color:#d09a00;
 }
 
@@ -475,3 +483,34 @@ ul.tabs li a{
     color: #404040;
     line-height: 22px;
 }
+
+.kahai{
+    position: relative;
+}
+
+ul.subkahai{
+    list-style-type:none;
+    width: 600px;
+    right: -200px;
+    height:37px;
+    position:absolute;
+    visibility: hidden;
+}
+ul.subkahai li{
+    height:37px;
+    background:#009CD9;
+    border-top:1px solid #fff;
+}
+ul.subkahai li a{
+    font-size: 14px;
+}
+
+ul.subkahai li a:hover{
+    background:#0086d1;
+    text-decoration: underline;
+}
+
+ul.nav li:hover ul{
+    visibility:visible;
+}
+

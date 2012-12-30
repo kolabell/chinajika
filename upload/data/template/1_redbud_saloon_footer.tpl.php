@@ -1,0 +1,52 @@
+<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); ?>
+<div class="footer">
+    <div class="ct_friendlink">
+        <div class="friendlink_title"><span><img style="margin-bottom: 2px" class="section_ico" src="../images/10.PNG"/>友情链接</span></div>
+        <div class="friendlink_content">
+            <div class="friendlinkblock"><span class="link"><a href="#">中国信息产业网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国电信集团公司</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国联通</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国移动</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中华电信</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">上海市通信管理局</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国银联</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国收藏家协会</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">新华网收藏频道</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">新浪网收藏频道</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">上海商报艺术品投资</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">卡趣</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">卡友俱乐部</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国地铁卡网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">上海地铁卡集藏协会</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">上海公共交通股份有限公司</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">广州羊城通有限公司</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">上海轨道交通俱乐部</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">地铁族</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国金融收藏网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">51银行卡收藏沙龙</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">colnect.com</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">藏卡网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">卡优网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">易集藏论坛</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中华卡迷网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">邮币卡互动网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国投资咨询网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国集邮总公司</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">炒邮网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">黎明邮讯</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国集币在线</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">赵涌在线</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">母老虎投资在线</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国艺术品网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">建军邮社</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">九州好邮币卡投资网</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+            <div class="friendlinkblock"><span class="link"><a href="#">中国收藏热线</a></span><span class="seperator"><img src="../images/seperator.png"/></span></div>
+        </div>
+    </div>
+    <div class="ct_footer">
+        <div style="height: 25px">关于本站 | 联系方式 | 版权声明 | 广告合作 | 友情链接</div>
+        <div style="margin-bottom: 24px">Copyright © chinajika.com All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业务联系: <a style="text-decoration: none" href="mailto:wuhao@chinajika.com">吴昊</a></div>
+    </div>
+</div>
+</body>
+</html>

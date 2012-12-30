@@ -1,0 +1,42 @@
+<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>中国集卡网</title>
+    <script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js" type="text/javascript"></script>
+    <link type="text/css" rel="stylesheet" href="../css/main.css" />
+    <script type="text/javascript">
+<!--
+window.UEDITOR_HOME_URL = "<?php echo $pluginpath;?>/";
+//-->
+</script>
+<script src="<?php echo $pluginpath;?>/js/editor_config.js" type="text/javascript"></script>
+<script src="<?php echo $pluginpath;?>/js/editor.js" type="text/javascript"></script>
+<script src="<?php echo $pluginpath;?>/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="<?php echo $pluginpath;?>/js/Validform_v5.3_min.js" type="text/javascript"></script>
+
+</head>
+<body>
+<div class="header clearfix">
+    <div class="header_1">
+        <div class="logo"><img src="../images/logo.png" /></div>
+    </div>
+    <div class="header_2"></div>
+</div>
+<div class="nav_container clearfix">
+<ul class="nav">
+    <li><a style="padding-left: 32px" href="">首页</a></li>
+    <li><a href="">行业新闻</a></li>
+    <li><a href="">集卡新闻</a></li>
+    <li><a href="">每日行情</a></li>
+    <li><a href="">国卡走势图</a></li>
+    <li><a href="">卡海钩沉</a></li>
+    <li><a href="">论坛</a></li>
+</ul>
+<ul class="nav_right">
+    <li style="padding-left: 15px"><a href="">设为首页</a></li>
+    <li><a style="padding-left: 11px" href="">|</a></li>
+    <li><a style="padding-left: 10px" href="">加为收藏</a></li>
+</ul>
+</div>

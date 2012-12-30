@@ -1,0 +1,17 @@
+<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); ?>
+<div class="main">
+<form action="<?php echo $discuzurl;?>/plugin.php?id=redbud_saloon:addsaloon&mod=addsubmit" method="post">
+<div>期数:</div>
+<div><input type="text" name="qishu" /></div>
+<div>编辑内容:</div>
+<script type="text/plain" id="editor" style="width:980px" name="content"></script>
+<div>排序</div>
+<div><input type="text" name="sequence" /></div>
+<div><input type="submit" value="提交" /></div>
+</form>
+<script type="text/javascript">
+    var editor = new UE.ui.Editor();
+    editor.render('editor');
+</script>
+
+</div>

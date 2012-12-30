@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X2.5]]></item>
+	<item id="Time"><![CDATA[2012-12-29 16:25]]></item>
+	<item id="From"><![CDATA[Discuz! Board (http://127.0.0.2/upload/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[集卡沙龙]]></item>
+			<item id="identifier"><![CDATA[redbud_saloon]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[redbud_saloon/]]></item>
+			<item id="copyright"><![CDATA[chinajika.com]]></item>
+			<item id="modules"><![CDATA[a:0:{}]]></item>
+			<item id="version"><![CDATA[1.0]]></item>
+		</item>
+		<item id="version"><![CDATA[X2.5]]></item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+	</item>
+</root>
